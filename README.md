@@ -1,5 +1,7 @@
 ## A terminal project manager written in Rust
 
+![Rust workflow](https://github.com/thiagodebastos/pm-rust/actions/workflows/rust.yml/badge.svg)
+
 
 ### Features:
 
